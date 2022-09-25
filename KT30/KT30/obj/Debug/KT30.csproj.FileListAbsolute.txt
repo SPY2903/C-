@@ -1,0 +1,11 @@
+D:\visual studio\Project\KT30\KT30\bin\Debug\KT30.exe.config
+D:\visual studio\Project\KT30\KT30\bin\Debug\KT30.exe
+D:\visual studio\Project\KT30\KT30\bin\Debug\KT30.pdb
+D:\visual studio\Project\KT30\KT30\obj\Debug\KT30.csproj.AssemblyReference.cache
+D:\visual studio\Project\KT30\KT30\obj\Debug\KT30.csproj.SuggestedBindingRedirects.cache
+D:\visual studio\Project\KT30\KT30\obj\Debug\KT30.Form1.resources
+D:\visual studio\Project\KT30\KT30\obj\Debug\KT30.Properties.Resources.resources
+D:\visual studio\Project\KT30\KT30\obj\Debug\KT30.csproj.GenerateResource.cache
+D:\visual studio\Project\KT30\KT30\obj\Debug\KT30.csproj.CoreCompileInputs.cache
+D:\visual studio\Project\KT30\KT30\obj\Debug\KT30.exe
+D:\visual studio\Project\KT30\KT30\obj\Debug\KT30.pdb
